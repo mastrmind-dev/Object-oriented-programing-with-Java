@@ -1,7 +1,7 @@
 package src;
 
-import src.vehicle.Bicycle;
-import src.vehicle.Car;
+import src.inheritance.vehicle.Bicycle;
+import src.inheritance.vehicle.Car;
 
 public class Main {
     public static void main(String[] args) {

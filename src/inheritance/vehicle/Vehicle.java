@@ -1,4 +1,4 @@
-package src.vehicle;
+package src.inheritance.vehicle;
 
 public class Vehicle {
     private double speed;

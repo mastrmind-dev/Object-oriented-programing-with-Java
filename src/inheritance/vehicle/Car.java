@@ -1,4 +1,4 @@
-package src.vehicle;
+package src.inheritance.vehicle;
 
 public class Car extends Vehicle {
     private final int wheels = 4;
